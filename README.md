@@ -1,6 +1,6 @@
 # Moses Mbuva
 
-Software developer in Nairobi. I build internal tools, dashboards and AI-assisted workflows with Next.js, TypeScript and Python. My background is business and operations, so I start with the problem the team actually has.
+Software developer in Nairobi. I build internal tools, dashboards and AI-assisted workflows with Next.js, TypeScript and Python. 
 
 ## Selected work
 
